@@ -64,8 +64,8 @@ For Software:
 
 ### Project Demo
 # Video
-["C:\Users\user\Videos\Screen Recordings\Screen Recording 2025-08-02 074021.mp4"]
-*Explain what the video demonstrates*
+[https://drive.google.com/file/d/125FuAZWlRdtaPMfiH8ADJVph27Cyj9-t/view?usp=drive_link]
+
 
 
 
